@@ -605,7 +605,7 @@ const Portfolio = () => {
     },
   ];
   const socials = [
-    { href: "https://www.instagram.com/flyinggauti/", image: "/images/socials/Instagram.svg" },
+    { href: "https://www.instagram.com/flyinggauti/", image: "/images/socials/instagram.svg" },
     { href: "https://topmate.io/lalit_gautam/", image: "/images/socials/Topmate.svg" },
     {
       href: "https://www.facebook.com/lalit.gautam.144/",
