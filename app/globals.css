@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Aiguilette&display=swap');
+@import "tailwindcss";
+
+
+@theme {
+  --font-sora: "Sora", sans-serif;
+  --font-plus-jakarta-sans: "Plus Jakarta Sans", sans-serif;
+  --font-poly: "Poly", serif;
+  --font-archivo: "Archivo Black", sans-serif;
+  --font-poppins: "Poppins", sans-serif;
+  --font-annie: 'Annie Use Your Telescope', cursive;
+  --font-aiguilette: 'Aiguilette', cursive;
+  
+  --color-purple-new: #4347FF;
+  --color-primary: #ffffff;
+  --color-secondary: #000000;
+}
+
+body {
+  font-family: var(--font-sora);
+}
